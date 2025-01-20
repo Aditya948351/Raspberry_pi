@@ -56,13 +56,12 @@ Press Ctrl-X, Y and then Enter to save your changes to dsudo phys-swapfile.
 
 Copy and Paste this script in your command promt this may take around 20 minutes:
 
-```bash
+<h2>Step 1: Restart the swapfile</h2>
+    <pre><code>sudo systemctl restart dphys-swapfile</code></pre>
+    
+<h2>  Step 2: Install face_recognition (this may take around 19 minutes)</h1>  
+    <pre><code>pip install --no-cache-dir face-recognition</code></pre>
+    
+<h2>Step 3: Install imutils</h2>
+    <pre><code>pip install imutils</code></pre>
 
-# Step 1: Restart the swapfile
-sudo systemctl restart dphys-swapfile
-
-# Step 2: Install face_recognition (this may take around 19 minutes)
-pip install --no-cache-dir face-recognition
-
-# Step 3: Install imutils
-pip install imutils
