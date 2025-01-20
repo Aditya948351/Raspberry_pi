@@ -52,3 +52,17 @@ To expand the swapfile, follow these steps:
 
 Press Ctrl-X, Y and then Enter to save your changes to dsudo phys-swapfile.
 
+### Setup Script for Face Recognition
+
+You can use the following script to set up your environment:
+
+```bash
+
+# Step 1: Restart the swapfile
+sudo systemctl restart dphys-swapfile
+
+# Step 2: Install face_recognition (this may take around 19 minutes)
+pip install face-recognition
+
+# Step 3: Install imutils
+pip install imutils
