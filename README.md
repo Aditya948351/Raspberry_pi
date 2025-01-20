@@ -45,7 +45,7 @@ To expand the swapfile, follow these steps:
 1. Open the `dphys-swapfile` for editing:
    ```bash
    sudo nano /etc/dphys-swapfile
-
+<p></p>
 <div style="text-align: center;">
     <img src="https://github.com/Aditya948351/Raspberry_pi/blob/main/step4.png?raw=true" alt="Step 4 Image" width="600">
 </div>
