@@ -65,3 +65,27 @@ Copy and Paste this script in your command promt this may take around 20 minutes
 <h2>Step 3: Install imutils</h2>
     <pre><code>pip install imutils</code></pre>
 
+
+<h2>Step 4: Enable Camera from your Raspberry Pi configuration follow below steps:</h2> 
+
+1. Open the Raspberry Pi configuration menu by running the following command in the terminal:
+   ```bash
+   sudo raspi-config
+
+1. Open the Raspberry Pi configuration menu:
+   ```bash
+   sudo raspi-config
+2. Navigate to Interface Options.
+
+3. To enable the Legacy Camera: </li>
+      Advanced Options > Legacy Camera > Enable
+
+4. Exit and reboot your Raspberry Pi using:
+'''bash
+sudo reboot
+
+
+<h2>Step 5: Install Picamera</h2>
+    <pre><code>pip install picamera[array]</code></pre>
+
+    
