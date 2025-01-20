@@ -5,6 +5,7 @@
 
 <h2>What You’ll Need for Raspberry Pi Facial Recognition</h2>
  - Raspberry Pi 3 or 4. (Raspberry Pi Zero W is not recommended for this project.) </p>
+ - You will need to install Bullseye OS for this (need python 3.9)
  - Power supply/microSD/Keyboard/Mouse/Monitor/HDMI Cable (for your Raspberry Pi) </p>
  - Raspberry pi Camera</p>
 
