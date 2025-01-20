@@ -18,7 +18,7 @@
   
 # Terminal Commands and Execution Times
 
-| Header Cell - Column 0 | Terminal Command                                                                                     | Length of Time to Run   |
+|                         | Terminal Command                                                                                     | Length of Time to Run   |
 |-------------------------|-----------------------------------------------------------------------------------------------------|-------------------------|
 | 1                       | `sudo apt install cmake build-essential pkg-config git`                                             | A few seconds           |
 | 2                       | `sudo apt install libjpeg-dev libtiff-dev libjasper-dev libpng-dev libwebp-dev libopenexr-dev`      | A few seconds           |
