@@ -54,7 +54,7 @@ Press Ctrl-X, Y and then Enter to save your changes to dsudo phys-swapfile.
 
 ### Setup Script for Face Recognition
 
-You can use the following script to set up your environment:
+Copy and Paste this script in your command promt this may take around 20 minutes:
 
 ```bash
 
