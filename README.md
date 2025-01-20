@@ -1,21 +1,27 @@
-# Raspberry_pi
+# Raspberry Pi Facial Recognition Setup Guide
 
-<p>Train your Raspberry Pi to recognize you and others.</p>
+## What You’ll Need
 
+- **Raspberry Pi 3 or 4** (Raspberry Pi Zero W is not recommended).
+- **Operating System:** Install Bullseye OS (Python 3.9 is required):
+  - [64-bit Download](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2024-10-28/2024-10-22-raspios-bullseye-arm64.img.xz)
+  - [32-bit Download](https://downloads.raspberrypi.com/rpd_x86/images/rpd_x86-2022-07-04/2022-07-01-raspios-bullseye-i386.iso)
+- **Hardware:**
+  - Power supply
+  - MicroSD card
+  - Keyboard and mouse
+  - Monitor
+  - HDMI cable
+  - Raspberry Pi Camera
 
-<h2>What You’ll Need for Raspberry Pi Facial Recognition</h2>
- - Raspberry Pi 3 or 4. (Raspberry Pi Zero W is not recommended for this project.) </p>
- - You will need to install Bullseye OS for this (need python 3.9)
-    - 64 bit : https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2024-10-28/2024-10-22-raspios-bullseye-arm64.img.xz
-    - 32 bit : https://downloads.raspberrypi.com/rpd_x86/images/rpd_x86-2022-07-04/2022-07-01-raspios-bullseye-i386.iso
- - Power supply/microSD/Keyboard/Mouse/Monitor/HDMI Cable (for your Raspberry Pi) </p>
- - Raspberry pi Camera</p>
+## Steps to Install OpenCV on Raspberry Pi
 
- 1.open a Terminal. </p>
- 2. Install OpenCV by running the following commands in your Terminal.
- <li>
-    Copy and paste each command into your Pi’s terminal, press Enter, and allow it to finish before moving onto the next command. <li>
-    If prompted, “Do you want to continue? (y/n)” press y and then the Enter key.
+### Step 1: Open a Terminal
+Run the following commands sequentially in the terminal. For each command:
+
+1. Copy and paste it into the terminal.
+2. Press **Enter** to execute.
+3. If prompted with “Do you want to continue? (y/n),” type **y** and press **Enter**.
 
   
 # Terminal Commands and Execution Times
