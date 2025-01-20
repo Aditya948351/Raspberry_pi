@@ -37,12 +37,12 @@ Run the following commands sequentially in the terminal. For each command:
 | 7                       | `sudo apt install python3-dev python3-pip python3-numpy`                                           | A few seconds           |
 
 
-4.After Completing the script in your default raspberry pi ID we need to modify the Swap memory.
 
-    To expand the swapfile, we will start by opening dphys-swapfile for editing:
-        sudo nano /etc/dphys-swapfile
+## Modifying Swap Memory
 
-    Once the file is open, comment out the line CONF_SWAPSIZE=100 and add CONF_SWAPSIZE=2048.    
+To expand the swapfile, follow these steps:
 
-
+1. Open the `dphys-swapfile` for editing:
+   ```bash
+   sudo nano /etc/dphys-swapfile
 
