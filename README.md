@@ -8,3 +8,5 @@
  - Power supply/microSD/Keyboard/Mouse/Monitor/HDMI Cable (for your Raspberry Pi) </p>
  - Raspberry pi Camera</p>
 
+ 1.open a Terminal.
+
