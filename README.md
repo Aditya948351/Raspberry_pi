@@ -6,6 +6,8 @@
 <h2>What You’ll Need for Raspberry Pi Facial Recognition</h2>
  - Raspberry Pi 3 or 4. (Raspberry Pi Zero W is not recommended for this project.) </p>
  - You will need to install Bullseye OS for this (need python 3.9)
+    - 64 bit : https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2024-10-28/2024-10-22-raspios-bullseye-arm64.img.xz
+    - 32 bit : https://downloads.raspberrypi.com/rpd_x86/images/rpd_x86-2022-07-04/2022-07-01-raspios-bullseye-i386.iso
  - Power supply/microSD/Keyboard/Mouse/Monitor/HDMI Cable (for your Raspberry Pi) </p>
  - Raspberry pi Camera</p>
 
@@ -27,4 +29,7 @@
 | 5                       | `sudo apt install libatlas-base-dev liblapacke-dev gfortran`                                       | 1 minute                |
 | 6                       | `sudo apt install libhdf5-dev libhdf5-103`                                                         | 1 minute                |
 | 7                       | `sudo apt install python3-dev python3-pip python3-numpy`                                           | A few seconds           |
+
+
+
 
