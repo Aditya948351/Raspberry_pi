@@ -50,4 +50,5 @@ To expand the swapfile, follow these steps:
     <img src="https://github.com/Aditya948351/Raspberry_pi/blob/main/step4.png?raw=true" alt="Step 4 Image" width="600">
 </div>
 
+Press Ctrl-X, Y and then Enter to save your changes to dsudo phys-swapfile.
 
