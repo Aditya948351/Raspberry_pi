@@ -8,8 +8,9 @@
  - Power supply/microSD/Keyboard/Mouse/Monitor/HDMI Cable (for your Raspberry Pi) </p>
  - Raspberry pi Camera</p>
 
- 1.open a Terminal.
+ 1.open a Terminal. </p>
  2. Install OpenCV by running the following commands in your Terminal. <li>
+ 
   Copy and paste each command into your Pi’s terminal, press Enter, and allow it to finish before moving onto the next command.
   If prompted, “Do you want to continue? (y/n)” press y and then the Enter key.
 
