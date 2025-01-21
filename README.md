@@ -30,7 +30,7 @@ Run the following commands sequentially in the terminal. For each command:
 | 1                       | `sudo apt install cmake build-essential pkg-config git`                                             |     40-50 seconds       |
 | 2                       | `sudo apt install libjpeg-dev libtiff-dev libjasper-dev libpng-dev libwebp-dev libopenexr-dev`      |     30 seconds          |
 | 3                       | `sudo apt install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev libxvidcore-dev libx264-dev libdc1394-22-dev libgstreamer-plugins-base1.0-dev libgstreamer1.0-dev` | 4 minutes               |
-| 4                       | `sudo apt install libgtk-3-dev libqtgui4 libqtwebkit4 libqt4-test python3-pyqt5`                   | 4.5 minutes             |
+| 4                       | `sudo apt updatesudo apt install libgtk-3-dev libqt5gui5 libqt5webkit5 libqt5test5 python3-pyqt5`  | 4.5 minutes             |
 | 5                       | `sudo apt install libatlas-base-dev liblapacke-dev gfortran`                                       | 1 minute                |
 | 6                       | `sudo apt install libhdf5-dev libhdf5-103`                                                         | 1 minute                |
 | 7                       | `sudo apt install python3-dev python3-pip python3-numpy`                                           | A few seconds           |
