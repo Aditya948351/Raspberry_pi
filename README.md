@@ -4,7 +4,6 @@
 
 - **Raspberry Pi 3 or 4** (Raspberry Pi Zero W is not recommended).
 - **Operating System:** Install Bullseye OS (Python 3.9 is required):
-  - [64-bit Download](https://downloads.raspberrypi.com/raspios_oldstable_arm64/images/raspios_oldstable_arm64-2024-10-28/2024-10-22-raspios-bullseye-arm64.img.xz)
   - [32-bit Download](https://downloads.raspberrypi.com/rpd_x86/images/rpd_x86-2022-07-04/2022-07-01-raspios-bullseye-i386.iso)
 - **Hardware:**
   - Power supply
