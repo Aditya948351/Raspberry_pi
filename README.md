@@ -88,4 +88,6 @@ sudo reboot
 <h2>Step 5: Install Picamera</h2>
     <pre><code>pip install picamera[array]</code></pre>
 
+
+follow this yt tutorial: https://youtu.be/QzVYnG-WaM4?si=UrQi-QILrg8s3LyJ
     
